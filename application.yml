@@ -21,5 +21,5 @@
   words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
   spring:
-    profiles: cloud-service7
+    profiles: cloud-service5
   words: boat,book,vote,seat,backpack,partition,groundhog
